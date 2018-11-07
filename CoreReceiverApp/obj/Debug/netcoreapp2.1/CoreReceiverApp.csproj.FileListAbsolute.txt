@@ -1,0 +1,11 @@
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\bin\Debug\netcoreapp2.1\CoreReceiverApp.deps.json
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\bin\Debug\netcoreapp2.1\CoreReceiverApp.runtimeconfig.json
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\bin\Debug\netcoreapp2.1\CoreReceiverApp.runtimeconfig.dev.json
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\bin\Debug\netcoreapp2.1\CoreReceiverApp.dll
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\obj\Debug\netcoreapp2.1\CoreReceiverApp.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\obj\Debug\netcoreapp2.1\CoreReceiverApp.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\obj\Debug\netcoreapp2.1\CoreReceiverApp.AssemblyInfo.cs
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\bin\Debug\netcoreapp2.1\CoreReceiverApp.pdb
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\obj\Debug\netcoreapp2.1\CoreReceiverApp.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\obj\Debug\netcoreapp2.1\CoreReceiverApp.dll
+C:\Users\jorge\source\repos\CoreSenderApp\CoreReceiverApp\obj\Debug\netcoreapp2.1\CoreReceiverApp.pdb

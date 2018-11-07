@@ -1,0 +1,11 @@
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\bin\Debug\netcoreapp2.1\CoreSenderApp.deps.json
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\bin\Debug\netcoreapp2.1\CoreSenderApp.runtimeconfig.json
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\bin\Debug\netcoreapp2.1\CoreSenderApp.runtimeconfig.dev.json
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\bin\Debug\netcoreapp2.1\CoreSenderApp.dll
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\obj\Debug\netcoreapp2.1\CoreSenderApp.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\obj\Debug\netcoreapp2.1\CoreSenderApp.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\obj\Debug\netcoreapp2.1\CoreSenderApp.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\obj\Debug\netcoreapp2.1\CoreSenderApp.AssemblyInfo.cs
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\bin\Debug\netcoreapp2.1\CoreSenderApp.pdb
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\obj\Debug\netcoreapp2.1\CoreSenderApp.dll
+C:\Users\jorge\source\repos\CoreSenderApp\CoreSenderApp\obj\Debug\netcoreapp2.1\CoreSenderApp.pdb
