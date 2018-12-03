@@ -1,2 +1,8 @@
-# azure-servicebus-demo
-Demo de service bus usando functions
+# Demo de Azure Service Bus
+Demo de Service Bus usando Functions para representar una solución orientada a eventos. 
+La demo esta compuesta por 2 proyectos de Azure Functions, una de las functions se encarga de enviar un mensaje a un topic y la otra function esta suscrita al topic, recibe el mensaje y lo guarda en un blob storage.
+
+#Correr el demo
+1- Ingresar en Azure Portal.
+2- Crear un grupo de recursos para contener los servicios usados en esta demo.
+3- 
